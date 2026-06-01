@@ -1,4 +1,4 @@
-Readme · MDCopy🚀 Codveda Technology — Front-End Development Internship
+🚀 Codveda Technology — Front-End Development Internship
 
 Internship by Harmeet Singh | Front-End Development Domain
 
